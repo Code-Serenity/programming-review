@@ -16,7 +16,7 @@ int main()
 	Node *n, *t, *h;
 
 	n = new Node;
-	n->data = 1;
+	//n->data = 1;
 
 	system("pause");
 	return 0;

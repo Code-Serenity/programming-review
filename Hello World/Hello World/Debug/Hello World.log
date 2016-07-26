@@ -1,3 +1,6 @@
 ﻿  Source.cpp
+c:\users\anv\source\repos\programming-review\hello world\hello world\source.cpp(16): warning C4101: 'h': unreferenced local variable
+c:\users\anv\source\repos\programming-review\hello world\hello world\source.cpp(16): warning C4101: 't': unreferenced local variable
+  LINK : C:\Users\ANV\Source\Repos\programming-review\Hello World\Debug\Hello World.exe not found or not built by the last incremental link; performing full link
   Hello World.vcxproj -> C:\Users\ANV\Source\Repos\programming-review\Hello World\Debug\Hello World.exe
   Hello World.vcxproj -> C:\Users\ANV\Source\Repos\programming-review\Hello World\Debug\Hello World.pdb (Partial PDB)
