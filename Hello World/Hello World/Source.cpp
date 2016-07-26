@@ -12,7 +12,7 @@ class Node {
 
 int main()
 {
-	/**/
+	/*hello*/
 	Node *n, *t, *h;
 
 	n = new Node;
